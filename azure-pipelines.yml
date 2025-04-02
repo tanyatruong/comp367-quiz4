@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: COMP367Quiz4AgentPool
+  name: COMP367Quiz4PoolAgent
 
 variables:
   buildConfiguration: 'Release'
